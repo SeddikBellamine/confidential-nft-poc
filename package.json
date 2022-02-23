@@ -1,7 +1,7 @@
 {
   "name": "@nftbuilder/react-app",
   "version": "1.0.0",
-  "homepage": "https://iexecblockchaincomputing.github.io/confidential-nft-poc",
+  "homepage": "https://seddikbellamine.github.io/confidential-nft-poc/",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -56,6 +56,7 @@
     "react-qr-reader": "^2.2.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.3",
+    "serve-build": "^0.1.0",
     "ui-kit": "git+ssh://git@github.com/iExecBlockchainComputing/react-ui-kit.git#semver:^1.0.0",
     "web3modal": "^1.9.1"
   },

@@ -165,32 +165,11 @@ function App(props) {
       
       
       {networkDisplay}
-      <BrowserRouter>
-        <Menu style={{ textAlign: "center" }} selectedKeys={[route]} mode="horizontal">
-          <Menu.Item key="/confidential-nft-poc">
-            <Link
-              onClick={() => {
-                setRoute("/confidential-nft-poc");
-              }}
-              to="/confidential-nft-poc"
-            >
-              
-            </Link>
-          </Menu.Item>
-          
-          
-        </Menu>
-
-        <Switch>
-          <Route exact path="/confidential-nft-poc/NFTbuilder">
           {address?
               <Home address={address} writeProvider={provider} iexec={iexec}/>
               : <div style={{paddingTop: "130px"}}>Connect your wallet to use the Dapp!</div>
             }
-          </Route>
-          
-        </Switch>
-      </BrowserRouter>
+         
 
       {/* 👨‍💼 Your account is in the top right with a wallet at connect options */}
       <div style={{ position: "fixed", textAlign: "right", left: 0,right: 0, top: 0,}}>
