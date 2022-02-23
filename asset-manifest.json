@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/confidential-nft-poc/static/css/main.cf42dbf6.chunk.css",
-    "main.js": "/confidential-nft-poc/static/js/main.b1c4fde5.chunk.js",
-    "main.js.map": "/confidential-nft-poc/static/js/main.b1c4fde5.chunk.js.map",
-    "runtime-main.js": "/confidential-nft-poc/static/js/runtime-main.749b4660.js",
-    "runtime-main.js.map": "/confidential-nft-poc/static/js/runtime-main.749b4660.js.map",
-    "static/css/2.67b5842d.chunk.css": "/confidential-nft-poc/static/css/2.67b5842d.chunk.css",
-    "static/js/2.926d16be.chunk.js": "/confidential-nft-poc/static/js/2.926d16be.chunk.js",
-    "static/js/2.926d16be.chunk.js.map": "/confidential-nft-poc/static/js/2.926d16be.chunk.js.map",
-    "index.html": "/confidential-nft-poc/index.html",
-    "precache-manifest.fd8a95f3bcf59fb03c19928f664de8bb.js": "/confidential-nft-poc/precache-manifest.fd8a95f3bcf59fb03c19928f664de8bb.js",
-    "service-worker.js": "/confidential-nft-poc/service-worker.js",
-    "static/css/2.67b5842d.chunk.css.map": "/confidential-nft-poc/static/css/2.67b5842d.chunk.css.map",
-    "static/css/main.cf42dbf6.chunk.css.map": "/confidential-nft-poc/static/css/main.cf42dbf6.chunk.css.map",
-    "static/js/2.926d16be.chunk.js.LICENSE.txt": "/confidential-nft-poc/static/js/2.926d16be.chunk.js.LICENSE.txt",
-    "static/media/700.css": "/confidential-nft-poc/static/media/space-mono-vietnamese-700-normal.6accba19.woff2"
+    "main.css": "/static/css/main.cf42dbf6.chunk.css",
+    "main.js": "/static/js/main.127f149a.chunk.js",
+    "main.js.map": "/static/js/main.127f149a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ee95e0a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ee95e0a9.js.map",
+    "static/css/2.a871c238.chunk.css": "/static/css/2.a871c238.chunk.css",
+    "static/js/2.4d3bb089.chunk.js": "/static/js/2.4d3bb089.chunk.js",
+    "static/js/2.4d3bb089.chunk.js.map": "/static/js/2.4d3bb089.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cf3a4f27ff4bec8789600787d97f38bf.js": "/precache-manifest.cf3a4f27ff4bec8789600787d97f38bf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a871c238.chunk.css.map": "/static/css/2.a871c238.chunk.css.map",
+    "static/css/main.cf42dbf6.chunk.css.map": "/static/css/main.cf42dbf6.chunk.css.map",
+    "static/js/2.4d3bb089.chunk.js.LICENSE.txt": "/static/js/2.4d3bb089.chunk.js.LICENSE.txt",
+    "static/media/700.css": "/static/media/space-mono-vietnamese-700-normal.6accba19.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.749b4660.js",
-    "static/css/2.67b5842d.chunk.css",
-    "static/js/2.926d16be.chunk.js",
+    "static/js/runtime-main.ee95e0a9.js",
+    "static/css/2.a871c238.chunk.css",
+    "static/js/2.4d3bb089.chunk.js",
     "static/css/main.cf42dbf6.chunk.css",
-    "static/js/main.b1c4fde5.chunk.js"
+    "static/js/main.127f149a.chunk.js"
   ]
 }
