@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fb6e66a289a0c34528aa70bcacf589e",
+    "revision": "37c59e713f980334734e1ba39f0c4037",
     "url": "/confidential-nft-poc/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/confidential-nft-poc/static/css/2.67b5842d.chunk.css"
   },
   {
-    "revision": "13260af1bb8f44471192",
+    "revision": "e0141a1a25264b8608e4",
     "url": "/confidential-nft-poc/static/css/main.cf42dbf6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/confidential-nft-poc/static/js/2.323d1330.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13260af1bb8f44471192",
-    "url": "/confidential-nft-poc/static/js/main.c44242c4.chunk.js"
+    "revision": "e0141a1a25264b8608e4",
+    "url": "/confidential-nft-poc/static/js/main.f73c20f3.chunk.js"
   },
   {
     "revision": "6b56202539b4acd19742",
